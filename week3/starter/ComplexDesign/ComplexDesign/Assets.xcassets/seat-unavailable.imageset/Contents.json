@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "seat-taken.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
